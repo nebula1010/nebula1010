@@ -1,37 +1,34 @@
 /**
  * Created by russayhernandez on 3/5/14.
  */
-
-
 /*
-var test1 = 40;
-var test2 = 60;
+var a=3;
+var b=4;
+var c=a+b;;
 
- if (test1>test2)
- {console.log ("beer");
-}else {console.log("falce")}
+alert(c);
+*/
+/*
+var fName=("russay");
+var lName=("hernandez");
+var fullName=(lName+""+fName);
+alert (fullNam)
+*/
+/*
+var test1=30
+var test2=60
+if (test1>test2){console.log("free beer")
+} else {console.log("no beer")}
+*/
+/*
+var radius = 6
+var pi = 3.14
+var circ = radius*2*pi
+console.log("the circumference of a cirlce is"+circ)
 */
 
-
-/*var rnd = Math.random (); // 0<= n <1 between 0 and 1 less than .5 is heads
-console.log(rnd);
-if (rnd<=.5) {
-    console.log("heads")
-}   else{
-    console.log("tails")
-*/
-/*var dice = math.random();
-if (dice<.33){
-    console.log("start");}
-else if (dice>.33 && dice<.66)
-{console.log("middle");
-}else {
-    console.log("end");
-}*/
-var grade = 83;
-if(grade >= 69){
-    console.log ("you pass")
-}
-else (grade >= 80){console.log("you rock")}
-
+var dogyears = 7
+var humanyears = 1
+var sparkyage =(dogyears"*"humanyears)
+var console.log("sparkyage")
 

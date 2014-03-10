@@ -67,10 +67,15 @@ console.log // concatenation // attatching two strings together
 
 //string number boleans arrays
 */
-
+/*
 var grade1 = parseinc(prompt("grade1"));
 var grade2 = parseinc(prompt("grade2"));
 var grade3 = parseinc(prompt("grade3"));
 
 var grades = [grade1, grade2, grade3]
+*/
+var LName=("hernandez");
+var FName=("russay");
+var FullName=("fName"+"lNmae");
+alert (fullName)
 
